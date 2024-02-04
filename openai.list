@@ -1,9 +1,8 @@
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaipublic
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,devv.ai
-DOMAIN-SUFFIX,dify.ai
-DOMAIN-SUFFIX,locofy.ai
+DOMAIN-KEYWORD,open-ai-chat
